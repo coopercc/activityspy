@@ -1,0 +1,17 @@
+I/MainActivity: onCreate event fired
+I/MainActivity: onStart event fired
+I/MainActivity: onResume event fired
+I/OpenGLRenderer: Initialized EGL, version 1.4
+D/OpenGLRenderer: Swap behavior 1
+E/EGL_emulation: tid 3093: eglSurfaceAttrib(1174): error 0x3009 (EGL_BAD_MATCH)
+W/OpenGLRenderer: Failed to set EGL_SWAP_BEHAVIOR on surface 0xa5c459c0, error=EGL_BAD_MATCH
+I/MainActivity: onPause event fired
+I/MainActivity: onStop event fired
+I/MainActivity: onRestart event fired
+I/MainActivity: onStart event fired
+I/MainActivity: onResume event fired
+E/EGL_emulation: tid 3093: eglSurfaceAttrib(1174): error 0x3009 (EGL_BAD_MATCH)
+W/OpenGLRenderer: Failed to set EGL_SWAP_BEHAVIOR on surface 0xa5c45920, error=EGL_BAD_MATCH
+I/MainActivity: onPause event fired
+I/MainActivity: onStop event fired
+Application terminated.
